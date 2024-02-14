@@ -1,0 +1,3 @@
+[submodule "MusicAppUi"]
+	path = MusicAppUi
+	url = https://github.com/audibhavesh-fermion/MusicAppUi.git
